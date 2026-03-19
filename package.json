@@ -4,11 +4,12 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js localhost 3000"
   },
   "repository": {
     "type": "git",
-    "start": "node index.js localhost 3000",
+   
     "url": "git+https://github.com/rudrigosilva/EstudoNode.git"
   },
   "keywords": [],
