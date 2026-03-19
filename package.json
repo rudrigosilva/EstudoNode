@@ -1,0 +1,26 @@
+{
+  "name": "estudonode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "start": "node index.js localhost 3000",
+    "url": "git+https://github.com/rudrigosilva/EstudoNode.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rudrigosilva/EstudoNode/issues"
+  },
+  "homepage": "https://github.com/rudrigosilva/EstudoNode#readme",
+  "dependencies": {
+    "express": "^5.2.1",
+    "mongoose": "^9.3.1",
+    "nodemon": "^3.1.14"
+  }
+}
